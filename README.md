@@ -98,5 +98,21 @@ Team project completed as part of the Advanced System Analysis & Design course. 
 
 ---
 
+## Design & Prototype Links
+
+The following Figma links showcase the user-centric design process for the Skinfinity application, including wireframes, high-fidelity designs, and an interactive prototype.
+
+- **Low-Fidelity Design:**  
+  https://www.figma.com/design/jttruvRwnI6KY20s2IuT0U/Skinfinity--User-Centric-Design?node-id=0-1&p=f&t=jTspkFt1l8Bdq50e-0
+
+- **High-Fidelity Design:**  
+  https://www.figma.com/design/jttruvRwnI6KY20s2IuT0U/Skinfinity--User-Centric-Design?node-id=1-2&p=f&t=jTspkFt1l8Bdq50e-0
+
+- **Interactive High-Fidelity Prototype:**  
+  https://www.figma.com/proto/jttruvRwnI6KY20s2IuT0U/Skinfinity--User-Centric-Design?node-id=122-2&p=f&t=HDdB0IGMZAVH3FnF-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=122%3A2
+
+
+---
+
 ## License
 This project is licensed under the MIT License.
